@@ -1,0 +1,2 @@
+# GENJS
+hitung genetika :)
